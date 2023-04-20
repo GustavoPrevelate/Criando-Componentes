@@ -1,0 +1,8 @@
+h1{
+    background-color: tomato;
+}
+
+.card-container{
+    display: flex;
+    gap: 20px;
+}
